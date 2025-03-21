@@ -5,7 +5,7 @@ JavaScript 初心者が JS の未来を見据えつつ、
 基礎をひととおり身に付けるための資料です。
 
 
-
+muni
 この README は `npm run presentation` で  
 再生することができます。
 
